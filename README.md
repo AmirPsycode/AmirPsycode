@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirPsycode
+- 👋 Hi, I’m Amirhosein Heidari
 - 👀 I’m interested in IWRM
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on set of conflict projects 
